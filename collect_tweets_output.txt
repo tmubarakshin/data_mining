@@ -1,0 +1,444 @@
+13/04/2016 06:32:23
+User: 3420848757
+Caught error:  Not authorized.
+13/04/2016 06:33:07
+User: 17466186
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 112 seconds... Total proceeded so far: 175
+13/04/2016 06:37:14
+User: 2181006680
+Caught error:  Not authorized.
+13/04/2016 06:37:48
+User: 1244661222
+Caught error:  Not authorized.
+13/04/2016 06:37:56
+User: 1023193092
+Caught error:  Not authorized.
+13/04/2016 06:38:42
+User: 456722136
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 678 seconds... Total proceeded so far: 352
+13/04/2016 06:53:40
+User: 3310520869
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 3310520869 does not exist, sorry :c
+13/04/2016 06:53:53
+User: 29461066
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 669 seconds... Total proceeded so far: 531
+13/04/2016 07:05:06
+User: 39258707
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 39258707 does not exist, sorry :c
+13/04/2016 07:05:30
+User: 2978122428
+Caught error:  Not authorized.
+13/04/2016 07:07:02
+User: 2479033339
+Caught error:  Not authorized.
+13/04/2016 07:07:43
+User: 23104649
+Caught error:  Not authorized.
+13/04/2016 07:08:53
+User: 74517909
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 670 seconds... Total proceeded so far: 707
+13/04/2016 07:20:38
+User: 23203359
+Caught error:  Not authorized.
+13/04/2016 07:24:01
+User: 786569252
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 663 seconds... Total proceeded so far: 886
+13/04/2016 07:35:09
+User: 184637477
+Caught error:  Not authorized.
+13/04/2016 07:35:15
+User: 442306827
+Caught error:  Not authorized.
+13/04/2016 07:39:00
+User: 598348855
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 666 seconds... Total proceeded so far: 1064
+13/04/2016 07:51:46
+User: 993924499
+Caught error:  Not authorized.
+13/04/2016 07:52:12
+User: 343512566
+Caught error:  Not authorized.
+13/04/2016 07:53:57
+User: 444241808
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 670 seconds... Total proceeded so far: 1242
+13/04/2016 08:06:22
+User: 4719313943
+Caught error:  Not authorized.
+13/04/2016 08:08:58
+User: 133733076
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 671 seconds... Total proceeded so far: 1421
+13/04/2016 08:20:50
+User: 241632399
+Caught error:  Not authorized.
+13/04/2016 08:21:41
+User: 2168986671
+Caught error:  Not authorized.
+13/04/2016 08:23:01
+User: 4139195715
+Caught error:  Not authorized.
+13/04/2016 08:23:24
+User: 23469459
+Caught error:  Not authorized.
+13/04/2016 08:23:58
+User: 227188239
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 672 seconds... Total proceeded so far: 1597
+13/04/2016 08:36:11
+User: 1507041006
+Caught error:  Not authorized.
+13/04/2016 08:37:14
+User: 4903974179
+Caught error:  Not authorized.
+13/04/2016 08:38:59
+User: 125706625
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 674 seconds... Total proceeded so far: 1775
+13/04/2016 08:51:06
+User: 860529211
+Caught error:  Not authorized.
+13/04/2016 08:52:52
+User: 560079868
+Caught error:  Not authorized.
+13/04/2016 08:54:01
+User: 3067290843
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 674 seconds... Total proceeded so far: 1953
+13/04/2016 09:05:39
+User: 284861750
+Caught error:  Not authorized.
+13/04/2016 09:08:56
+User: 4663461
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 681 seconds... Total proceeded so far: 2132
+13/04/2016 09:21:38
+User: 4559645115
+Caught error:  Not authorized.
+13/04/2016 09:24:00
+User: 3588336613
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 679 seconds... Total proceeded so far: 2311
+13/04/2016 09:36:06
+User: 325921900
+Caught error:  Not authorized.
+13/04/2016 09:38:13
+User: 547630729
+Caught error:  Not authorized.
+13/04/2016 09:38:56
+User: 116830038
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 684 seconds... Total proceeded so far: 2489
+13/04/2016 09:53:47
+User: 930198085
+Caught error:  Not authorized.
+13/04/2016 09:54:03
+User: 22688381
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 678 seconds... Total proceeded so far: 2668
+13/04/2016 10:05:56
+User: 302953258
+Caught error:  Not authorized.
+13/04/2016 10:07:19
+User: 233239401
+Caught error:  Not authorized.
+13/04/2016 10:07:40
+User: 161297639
+Caught error:  Not authorized.
+13/04/2016 10:07:56
+User: 43136307
+Caught error:  Not authorized.
+13/04/2016 10:08:58
+User: 148846102
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 685 seconds... Total proceeded so far: 2844
+13/04/2016 10:23:40
+User: 4321196248
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 4321196248 does not exist, sorry :c
+13/04/2016 10:23:44
+User: 1414117614
+Caught error:  Not authorized.
+13/04/2016 10:23:47
+User: 1135622396
+Caught error:  Not authorized.
+13/04/2016 10:24:03
+User: 594229541
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 681 seconds... Total proceeded so far: 3021
+13/04/2016 10:36:29
+User: 2220538393
+Caught error:  Not authorized.
+13/04/2016 10:39:01
+User: 94551207
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 685 seconds... Total proceeded so far: 3200
+13/04/2016 10:52:08
+User: 254590463
+Caught error:  Not authorized.
+13/04/2016 10:54:04
+User: 2990718884
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 684 seconds... Total proceeded so far: 3379
+13/04/2016 11:09:04
+User: 2853749448
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 2853749448 does not exist, sorry :c
+13/04/2016 11:09:10
+User: 33112792
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 679 seconds... Total proceeded so far: 3558
+13/04/2016 11:24:29
+User: 59557506
+Caught error:  Not authorized.
+13/04/2016 11:26:47
+User: 4706060432
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 682 seconds... Total proceeded so far: 3872
+13/04/2016 11:38:18
+User: 26265791
+Caught error:  Not authorized.
+13/04/2016 11:38:24
+User: 568608987
+Caught error:  Not authorized.
+13/04/2016 11:38:33
+User: 2570143998
+Caught error:  Not authorized.
+13/04/2016 11:38:35
+User: 17681451
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 17681451 does not exist, sorry :c
+13/04/2016 11:39:20
+User: 2889206220
+Caught error:  Not authorized.
+13/04/2016 11:40:06
+User: 4823009955
+Caught error:  Not authorized.
+13/04/2016 11:40:32
+User: 522406656
+Caught error:  Not authorized.
+13/04/2016 11:41:47
+User: 22891564
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 684 seconds... Total proceeded so far: 4045
+13/04/2016 11:53:50
+User: 300698799
+Caught error:  Not authorized.
+13/04/2016 11:54:58
+User: 4645670297
+Caught error:  Not authorized.
+13/04/2016 11:55:54
+User: 304696956
+Caught error:  Not authorized.
+13/04/2016 11:56:07
+User: 24399531
+Caught error:  Not authorized.
+13/04/2016 11:56:33
+User: 3706900213
+Caught error:  Not authorized.
+13/04/2016 11:56:51
+User: 17125184
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 683 seconds... Total proceeded so far: 4220
+13/04/2016 12:08:34
+User: 314167169
+Caught error:  Not authorized.
+13/04/2016 12:08:52
+User: 404574164
+Caught error:  Not authorized.
+13/04/2016 12:11:40
+User: 23548525
+Caught error:  Not authorized.
+13/04/2016 12:11:58
+User: 468865743
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 678 seconds... Total proceeded so far: 4397
+13/04/2016 12:23:49
+User: 206656321
+Caught error:  Not authorized.
+13/04/2016 12:25:07
+User: 1962071185
+Caught error:  Not authorized.
+13/04/2016 12:25:31
+User: 2900743415
+Caught error:  Not authorized.
+13/04/2016 12:25:43
+User: 340514090
+Caught error:  Not authorized.
+13/04/2016 12:26:54
+User: 12670512
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 683 seconds... Total proceeded so far: 4573
+13/04/2016 12:41:08
+User: 19552358
+Caught error:  Not authorized.
+13/04/2016 12:42:00
+User: 62052619
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 678 seconds... Total proceeded so far: 4752
+13/04/2016 12:54:44
+User: 300538516
+Caught error:  Not authorized.
+13/04/2016 12:54:52
+User: 164584108
+Caught error:  Not authorized.
+13/04/2016 12:56:06
+User: 60709952
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 60709952 does not exist, sorry :c
+13/04/2016 12:56:32
+User: 1066130576
+Caught error:  Not authorized.
+13/04/2016 12:56:58
+User: 218356963
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 682 seconds... Total proceeded so far: 4928
+13/04/2016 13:10:23
+User: 4729495227
+Caught error:  Not authorized.
+13/04/2016 13:10:49
+User: 355720996
+Caught error:  Not authorized.
+13/04/2016 13:11:35
+User: 1115643872
+Caught error:  Not authorized.
+13/04/2016 13:11:57
+User: 1568858138
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 685 seconds... Total proceeded so far: 5105
+13/04/2016 13:26:52
+User: 17687436
+Caught error:  Not authorized.
+13/04/2016 13:27:05
+User: 3298091964
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 678 seconds... Total proceeded so far: 5284
+13/04/2016 13:38:49
+User: 2688836640
+Caught error:  Not authorized.
+13/04/2016 13:39:24
+User: 3025003720
+Caught error:  Not authorized.
+13/04/2016 13:40:16
+User: 413590951
+Caught error:  Not authorized.
+13/04/2016 13:42:02
+User: 19457805
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 683 seconds... Total proceeded so far: 5461
+13/04/2016 13:53:30
+User: 35055391
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 35055391 does not exist, sorry :c
+13/04/2016 13:54:16
+User: 808052682
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 808052682 does not exist, sorry :c
+13/04/2016 13:57:10
+User: 509700682
+Caught error:  Not authorized.
+13/04/2016 13:57:20
+User: 889317997
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 667 seconds... Total proceeded so far: 5638
+13/04/2016 14:08:54
+User: 456354514
+Caught error:  Not authorized.
+13/04/2016 14:09:06
+User: 725707543
+Caught error:  Not authorized.
+13/04/2016 14:10:31
+User: 199814232
+Caught error:  Not authorized.
+13/04/2016 14:11:54
+User: 174779836
+Caught error:  Not authorized.
+13/04/2016 14:12:18
+User: 1090219536
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 670 seconds... Total proceeded so far: 5814
+13/04/2016 14:23:31
+User: 327750233
+Caught error:  Not authorized.
+13/04/2016 14:23:36
+User: 2821418541
+Caught error:  [{u'message': u'Over capacity', u'code': 130}]
+13/04/2016 14:23:50
+User: 820506204
+Caught error:  Not authorized.
+13/04/2016 14:24:39
+User: 3415764736
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 3415764736 does not exist, sorry :c
+13/04/2016 14:25:39
+User: 1049096167
+Caught error:  Not authorized.
+13/04/2016 14:25:58
+User: 4269568049
+Caught error:  [{u'message': u'Sorry, that page does not exist.', u'code': 34}]
+User with id 4269568049 does not exist, sorry :c
+13/04/2016 14:27:17
+User: 7172432
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 673 seconds... Total proceeded so far: 5989
+13/04/2016 14:38:51
+User: 3286760858
+Caught error:  Not authorized.
+13/04/2016 14:41:06
+User: 18772914
+Caught error:  Not authorized.
+13/04/2016 14:42:09
+User: 15496315
+Caught error:  Not authorized.
+13/04/2016 14:42:21
+User: 17888436
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 671 seconds... Total proceeded so far: 6166
+13/04/2016 14:55:17
+User: 396162603
+Caught error:  Not authorized.
+13/04/2016 14:57:21
+User: 348321777
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 672 seconds... Total proceeded so far: 6345
+13/04/2016 15:11:03
+User: 2226289219
+Caught error:  Not authorized.
+13/04/2016 15:11:52
+User: 3303668496
+Caught error:  Not authorized.
+13/04/2016 15:11:55
+User: 2931948320
+Caught error:  Not authorized.
+13/04/2016 15:12:22
+User: 3322149778
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 673 seconds... Total proceeded so far: 6522
+13/04/2016 15:25:51
+User: 2976321
+Caught error:  Not authorized.
+13/04/2016 15:26:54
+User: 2473131667
+Caught error:  Not authorized.
+13/04/2016 15:27:23
+User: 147128025
+Caught error:  [{u'message': u'Rate limit exceeded', u'code': 88}]
+Waiting 674 seconds... Total proceeded so far: 6700
+13/04/2016 15:38:58
+User: 3333062421
+Caught error:  Not authorized.
+13/04/2016 15:39:45
+User: 4321083313
+Caught error:  Not authorized.
+13/04/2016 15:40:22
+User: 22688381
+Caught error:  Not authorized.
+Successfully collected tweets from 6803 users.
